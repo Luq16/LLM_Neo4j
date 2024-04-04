@@ -2,3 +2,5 @@ langchain
 openai
 huggingface_hub
 python-dotenv
+langchain-openai
+jupyter
